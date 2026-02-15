@@ -1,4 +1,4 @@
-import { StyleNode, FillStyle, EffectStyle, Style } from '@figma-export/types';
+!import { StyleNode, FillStyle, EffectStyle, Style } from '@figma-export/types';
 
 import fs from 'fs';
 import path from 'path';
